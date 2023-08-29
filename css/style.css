@@ -1,0 +1,15 @@
+@charset 'UTF-8';
+
+html{
+  font-size: 100%;
+}
+
+.home-hero {
+  background:url('../images/bg-hero.jpg') no-repeat right-top/70vw auto;
+  padding:5.5rem 1rem 3rem;
+}
+.home-hero h2 {
+  font-family: sans-serif,'sawarabi mincho';
+  font-size: 1.5rem;
+
+}
